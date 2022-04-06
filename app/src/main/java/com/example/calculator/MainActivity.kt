@@ -29,7 +29,6 @@ class MainActivity : AppCompatActivity() {
     lateinit var rightbracket: TextView
     lateinit var leftbracket: TextView
 
-
     /////////////////////////// очистка
     lateinit var back: TextView
     lateinit var clear: TextView
